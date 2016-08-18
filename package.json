@@ -1,0 +1,24 @@
+{
+  "name": "file-metadata-svc-fcc",
+  "version": "1.0.0",
+  "description": "File metadata microservice for freeCodeCamp",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/valenbg1/file-metadata-svc-fcc"
+  },
+  "bugs": "http://github.com/valenbg1/file-metadata-svc-fcc/issues",
+  "keywords": [
+    "Express",
+    "Node",
+    "Javascript"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Valentín Blanco",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
