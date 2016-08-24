@@ -19,6 +19,7 @@
   "author": "Valentín Blanco",
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
   }
 }
